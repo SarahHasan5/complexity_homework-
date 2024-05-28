@@ -1,4 +1,7 @@
 Complexity Task
+
+
+
 A strongly biconnected directed graph G=(V,E) is 2-vertex strongly biconnected[5] if G has at least three
 
 vertices and G{w} is strongly biconnected for all vertices w in G.
@@ -27,7 +30,13 @@ J. M. Schmidt, A simple test on 2-vertex- and 2-edge-connectivity, Inform. Proce
 Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Problem Discrete Mathematics Letters, 40-43, Volume 7(2021) DOI: 10.47443/dml.2021.0024
 
 Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
+
+
+
 Students
+
+
+
 سارة محمد حسن 6134
 ريم باسل حسن 6387
 اية سامر كفا 6289
