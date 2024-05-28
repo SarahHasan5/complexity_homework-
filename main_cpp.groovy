@@ -4,7 +4,7 @@
 - sarah hasan: Gabow's algorithm for finding strongly connected components.
 - reem hasan: Jens Schmidt's algorithm for finding articulation points.
 - rand shehadah: Converting the directed graph to an undirected graph.
-- ghazal abd alkareem  : Checking if the graph is 2-vertex strongly biconnected.
+- ghazal abd alkareem & aya kafa : Checking if the graph is 2-vertex strongly biconnected.
 - nancy mhanna & ali ghazy : Loading the graph from a SNAP dataset file.
 - faten ismael & nada jdeed: Main part of the program, loading data, and executing algorithms.
 - baraa saleh: Final check and printing the results.
