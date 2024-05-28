@@ -142,7 +142,7 @@ vector<vector<int>> convertToUndirected(const vector<vector<int>>& directed_grap
     return undirected_graph;
 }
 
-// written by ghazal abd alkareem & baraa saleh
+// written by ghazal abd alkareem & aya kafa
 bool is2VertexStronglyBiconnected(const vector<vector<int>>& directed_graph) {
     // Check strongly connected using Gabow's algorithm
     auto start = high_resolution_clock::now();
