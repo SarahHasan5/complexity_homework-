@@ -1,8 +1,8 @@
 /*
 - ali hasan: Definition of the adjacency matrix.
 - zeina ali: Definition of the `disc` and `low` arrays and the `stack`.
-- sarah hasan: Gabow's algorithm for finding strongly connected components.
-- reem hasan: Jens Schmidt's algorithm for finding articulation points.
+- sarah hasan & Baraa saleh: Gabow's algorithm for finding strongly connected components.
+- reem hasan & ali hasan: Jens Schmidt's algorithm for finding articulation points.
 - rand shehadah: Converting the directed graph to an undirected graph.
 - ghazal abd alkareem & aya kafa : Checking if the graph is 2-vertex strongly biconnected.
 - nancy mhanna & ali ghazy : Loading the graph from a SNAP dataset file.
@@ -30,7 +30,7 @@ vector<int> disc, low;
 stack<int> st;
 int timeCounter = 0;
 
-//written by sarah hasan
+//written by sarah hasan & baraa saleh
 class GabowSCC {
     vector<vector<int>> graph;
     int index;
@@ -82,7 +82,7 @@ public:
     }
 };
 
-// written by reem hasan
+// written by reem hasan & Ali hasan
 class JensSchmidtBC {
     vector<vector<int>> graph;
     vector<int> low, disc, parent;
